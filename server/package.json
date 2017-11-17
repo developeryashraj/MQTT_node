@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MQTT Server",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dateformat": "^2.0.0",
+    "debug": "~2.6.3",
+    "express": "^4.15.2",
+    "mosca": "^2.7.0",
+    "mqtt": "^2.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "author": "Urvish Sheth",
+  "license": "ISC"
+}
